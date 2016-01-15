@@ -9,6 +9,6 @@ Not standalone
 
 This is used in:
 
-claudejanz/yii2-gsap "*"
-claudejanz/yii2-scrollmagic "*"
+ - claudejanz/yii2-gsap "*"
+ - claudejanz/yii2-scrollmagic "*"
 
