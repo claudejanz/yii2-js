@@ -1,6 +1,6 @@
 {
     "name": "claudejanz/yii2-js",
-    "description": "Yii2 js bas class",
+    "description": "Yii2 js base class",
     "type": "yii2-extension",
     "keywords": ["yii2","js base class"],
     "license": "BSD-4-Clause",
